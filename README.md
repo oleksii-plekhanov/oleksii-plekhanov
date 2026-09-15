@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 👋
+
+- I am Senior Backend Developer at Salonkee
+- Salonkee is salon management software for all Hair, Beauty & Wellness Professionals
+- You can read more here -> [salonkee.com/pro/en/salonmanagement-software-hairdresser-beauty-salon](https://salonkee.com/pro/en/salonmanagement-software-hairdresser-beauty-salon)
 
 <!--
 **oleksii-plekhanov/oleksii-plekhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
