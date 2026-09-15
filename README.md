@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- I am Senior Backend Developer at Salonkee
+- I am Senior Backend Developer at [@Salonkee](https://github.com/salonkee)
 - Salonkee is salon management software for all Hair, Beauty & Wellness Professionals
 - You can read more here -> [salonkee.com/pro/en/salonmanagement-software-hairdresser-beauty-salon](https://salonkee.com/pro/en/salonmanagement-software-hairdresser-beauty-salon)
 
